@@ -1,0 +1,27 @@
+/* 
+  Name:			Bounce Out Up
+  Type:			Exit
+  Description:	Bounce Out Up Effect
+  Version:		2.0	
+  locale:		{"zh-Hans":"顶部弹出", "en-US":"Bounce Out Up"}
+ */
+ 
+@keyframes bounceOutUp {
+  20% {
+    transform: translate3d(0, -10px, 0);
+  }
+
+  40%, 45% {
+    opacity: 1;
+    transform: translate3d(0, 20px, 0);
+  }
+
+  100% {
+    opacity: 0;
+    transform: translate3d(0, -2000px, 0);
+  }
+}
+
+.bounceOutUp {
+  animation-name: bounceOutUp;
+}

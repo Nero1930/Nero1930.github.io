@@ -1,0 +1,16 @@
+/* 
+  Name:			HandTextTypewriter
+  Type:			Entrance
+  Description:	Hand Text Effect
+  Version:		2.0	
+  locale:		{"zh-Hans":"手写字", "en-US":"Hand Text Typewriter"}
+  Class:        HandTextTypewriter
+  LimitType:    MText
+ */
+ 
+@keyframes handTextTypewriter {
+	
+}
+.handTextTypewriter{
+	animation-duration: 4s;
+}

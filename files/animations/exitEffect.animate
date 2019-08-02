@@ -1,0 +1,12 @@
+/* 
+  Name:			ExitEffect
+  Type:			Exit
+  Description:	Exit Effect
+  Version:		2.0	
+  locale:		{"zh-Hans":"退出特效", "en-US":"Exit Effect"}
+  Class:        ExitEffect
+ */
+ 
+@keyframes exitEffect {
+	
+}

@@ -1,0 +1,21 @@
+/* 
+  Name:			Fade Out Up
+  Type:			Exit
+  Description:	Fade Out Effect
+  Version:		2.0	
+  locale:		{"zh-Hans":"顶部淡出", "en-US":"Fade Out Up"}
+ */
+@keyframes fadeOutUp {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    transform: translate3d(0, -100%, 0);
+  }
+}
+
+.fadeOutUp {
+  animation-name: fadeOutUp;
+}
