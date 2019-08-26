@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <fonts>
+    <font name="Droid Sans" className="FskyFont_droidsans" url="./files/fonts/font-0-0-2019826184919867.swf" ttfurl="./files/fonts/font-0-0-2019826184919867.ttf"/>
+    <font name="Droid Sans" className="FskyFont_droidsans_bold" url="./files/fonts/font-0-1-2019826184919872.swf" ttfurl="./files/fonts/font-0-1-2019826184919872.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht" url="./files/fonts/font-1-0-2019826184919874.swf" ttfurl="./files/fonts/font-1-0-2019826184919874.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold" url="./files/fonts/font-1-1-2019826184920503.swf" ttfurl="./files/fonts/font-1-1-2019826184920503.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Italic" url="./files/fonts/font-1-2-20198261849212.swf" ttfurl="./files/fonts/font-1-2-20198261849212.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold_Italic" url="./files/fonts/font-1-3-2019826184921361.swf" ttfurl="./files/fonts/font-1-3-2019826184921361.ttf"/>
+    <font name="Times New Roman" className="FskyFont_TimesNewRomanBoldItalic" url="./files/fonts/font-2-0-2019826184921773.swf" ttfurl="./files/fonts/font-2-0-2019826184921773.ttf"/>
+    <font name="Times New Roman" className="FskyFont_TimesNewRomanBold" url="./files/fonts/font-2-1-201982618492252.swf" ttfurl="./files/fonts/font-2-1-201982618492252.ttf"/>
+    <font name="Times New Roman" className="FskyFont_TimesNewRomanItalic" url="./files/fonts/font-2-2-2019826184922332.swf" ttfurl="./files/fonts/font-2-2-2019826184922332.ttf"/>
+    <font name="Times New Roman" className="FskyFont_TimesNewRoman" url="./files/fonts/font-2-3-2019826184922596.swf" ttfurl="./files/fonts/font-2-3-2019826184922596.ttf"/>
+    <font name="FontAwesome" className="" url="./files/fonts/font-3-0-2019826184922932.swf" ttfurl="./files/fonts/font-3-0-2019826184922932.ttf"/>
+  </fonts>
+</data>
