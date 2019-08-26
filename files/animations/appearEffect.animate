@@ -1,0 +1,12 @@
+/* 
+  Name:			AppearEffect
+  Type:			Entrance
+  Description:	Appear Effect
+  Version:		2.0	
+  locale:		{"zh-Hans":"出现", "en-US":"Appear Effect"}
+  Class:        AppearEffect
+ */
+ 
+@keyframes appearEffect {
+	
+}
