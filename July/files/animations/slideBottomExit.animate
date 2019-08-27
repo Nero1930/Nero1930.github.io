@@ -1,0 +1,12 @@
+/* 
+  Name:			SlideBottomExit
+  Type:			Exit
+  Description:	Slide Bottom Exit
+  Version:		2.0	
+  locale:		{"zh-Hans":"向下滑出", "en-US":"Slide Bottom Exit"}
+  Class:        SlideBottomExit
+ */
+ 
+@keyframes slideBottomExit {
+	
+}
