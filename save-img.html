@@ -1,0 +1,38 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>文件保存</title>
+  <style>
+    .wrapper {
+      width: 35%;
+      box-shadow: 0 0 2px 0 rgb(129, 135, 173);
+      overflow: hidden;
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 2;
+      text-overflow: ellipsis;
+    }
+  </style>
+  <script src="https://lf1-cdn-tos.bytegoofy.com/goofy/developer/jssdk/jssdk-1.1.0.js"></script>
+  <script>
+    const img = 'http://p3-lotus-ma-fe.byteimg.com/tos-cn-i-3pxugya5rm/vaccine/cert_header.png~tplv-3pxugya5rm-3:0:0.image';
+    function save () {
+      if (!tt || !tt.miniProgram) {
+        alert('请在抖音 webview 内打开');
+        return;
+      }
+      tt.miniProgram.previewImage({
+        urls: [img],
+        showmenu: true
+      })
+    }
+  </script>
+</head>
+<body>
+  <div class="wrapper" onclick="save()">
+    点击这里保存一张图片
+  </div>
+</body>
+</html>
